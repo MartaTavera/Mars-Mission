@@ -2,6 +2,7 @@
 
 .quiz-question {
   @include text("heading");
+  @include padding(3);
   @include margin(0);
 }
 
