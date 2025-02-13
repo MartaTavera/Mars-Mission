@@ -1,0 +1,36 @@
+@import "../commonStyles/constants.scss";
+
+.IntroContainer {
+  .IntroContainer {
+    width: 13%;
+    width: $desktopMinWidth;
+    @include padding;
+  }
+}
+.MarsImagesScroll {
+  width: 55%;
+  img {
+    height: 100%;
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 60px;
+  }
+}
+.rover-page {
+  .RoverlandingTitle {
+    @include text("title");
+    display: flex;
+    justify-content: center;
+  }
+  .main-section {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .RoverText {
+    @include text("subheading");
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+  }
+}

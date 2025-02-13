@@ -40,7 +40,6 @@ $fontBold: 600;
       text-align: left;
       color: whitesmoke;
     }
-
     .title {
       font-weight: $fontBold;
       @include text("heading");

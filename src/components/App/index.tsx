@@ -12,6 +12,7 @@ import FunFactRoverPage from "../Layouts/FunFactRoverPage";
 import FunFactMissionPage from "../Layouts/FunFactMissionPage";
 import FunFactEnvPage from "../Layouts/FunFactEnvPage";
 import { APOD } from "../APOD/apod";
+import RoverIntroPage from "../Layouts/RoverIntroPage";
 
 const App: React.FC = () => {
   return (
@@ -19,6 +20,7 @@ const App: React.FC = () => {
       <NavBar />
       <div className="padded-container">
         <Routes>
+          <Route path="/rover" element={<RoverIntroPage />} />
           <Route path="/" element={<LandingPage />} />
           <Route path="/quiz" element={<QuizPage />} />
           <Route path="/marsrover" element={<MarsRoverPage />} />

@@ -30,7 +30,7 @@ const NavBar = () => {
             <li className="nav-item">
               <Link
                 className="nav-link"
-                to="/marsrover"
+                to="/rover"
                 onClick={closeMenuOnMobile}
               >
                 Mars Rover
