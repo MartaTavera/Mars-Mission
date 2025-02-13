@@ -28,6 +28,7 @@ $fontBold: 600;
     background-color: #050505;
     @include text("subheading");
     @include padding;
+    border-radius: 8px;
     width: 100%;
 
     img {
