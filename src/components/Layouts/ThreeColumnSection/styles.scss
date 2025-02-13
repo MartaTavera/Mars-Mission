@@ -6,6 +6,9 @@
   flex-direction: column;
   position: relative;
   height: 100%;
+  padding: 0 3rem; // Adds more noticeable padding
+  width: 100%;
+  box-sizing: border-box;
 
   @include desktop {
     flex-direction: row;
@@ -17,23 +20,25 @@
   background-repeat: no-repeat;
   background-size: cover;
   text-decoration: none;
+  min-height: 80vh;
 }
 
 .column-section-1 {
   background-image: url("../../../assets/spiral-galaxy.jpg");
   background-position: left;
-  flex: 0 0 27.5%;
+
+  flex: 0 0 30%;
 }
 
 .column-section-2 {
   background-image: url("../../../assets/mars-rover.webp");
   background-position: right;
-  flex: 0 0 40%;
+  flex: 0 0 30%;
 }
 
 .column-section-3 {
   background-image: url("../../../assets/galaxy.jpg");
   background-position: left;
   order: 3;
-  flex: 0 0 27.5%;
+  flex: 0 0 30%;
 }
