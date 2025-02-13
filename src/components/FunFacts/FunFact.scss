@@ -7,15 +7,25 @@ $fontBold: 600;
   display: flex;
   justify-content: center;
 }
-
+.ff-card-container {
+  display: flex;
+  direction: row;
+  gap: 20px;
+  @include text("subheading");
+}
 .card-container {
   display: flex;
-  flex-wrap: wrap;
-  @include margin;
-  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  background-color: rgb(254, 253, 253);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 8px;
+  max-width: 640px;
 
   .fact-container {
-    background-color: #151820;
+    background-color: #050505;
     @include text("subheading");
     @include padding;
     width: 100%;

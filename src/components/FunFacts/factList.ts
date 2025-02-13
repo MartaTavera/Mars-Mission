@@ -9,6 +9,8 @@ import image9 from "../../assests/MOXIE.jpg";
 import image10 from "../../assests/Curiosity.jpg";
 import image11 from "../../assests/Ingenuity1.jpg";
 import image12 from "../../assests/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.jpg";
+import image13 from "../../assests/mariner09.jpg";
+import image14 from "../../assests/VikingOrbiter.jpg";
 
 export interface Fact {
   title: string;
@@ -63,11 +65,11 @@ export const factList: Fact[] = [
     id: 7,
     content:
       "Mars atmosphere is 100 times thinner than earth's. It is believed that Mars once had a  thicker but several factors contributed to its deterioration. The low gravity makesit easy for upper layers of the atmosphere to be boiled away into the vacuum of space.Add to that lack of magnetic field, which would have been lost when the planet cooled down about 4 billion years ago means powerful solar wind stripped particles away from its atmosphere.   ",
-    category: "mission",
+    category: "environment",
   },
 
   {
-    title: "Other Mars missions",
+    title: "Pathfinder",
     image: image8,
     id: 8,
     content:
@@ -119,6 +121,23 @@ export const factList: Fact[] = [
     id: 12,
     content:
       "The Martian atmosphere is mostly carbon dioxide (CO2) . Today, Mars is a cold, inhospitable desert but features like dry riverbeds and minerals that only form with liquid water indicate that long ago it had a thick atmosphere that retained enough heat for liquid water.",
+    category: "environment",
+  },
+
+  {
+    title: "Mariner",
+    image: image13,
+    id: 13,
+    content:
+      "NASA’s Mariner 9, launched days after Mariner 8, was the first spacecraft to orbit another planet and to orbit Mars, mapping 85% of the surface. (1971-1972)",
+    category: "mission",
+  },
+  {
+    title: "Viking 2",
+    image: image14,
+    id: 14,
+    content:
+      "Viking 2 mission consisted of a lander and an orbiter designed to take high-resolution images and study the Martian surface and atmosphere. The Viking Orbiter 2 functioned until July 25, 1978. The last data from Viking Lander 2 arrived at Earth on April 11, 1980.",
     category: "mission",
   },
 ];

@@ -16,9 +16,11 @@ export default function FunFacts(props: { facts: Fact[] }) {
   return (
     <div>
       <h1 className="fun-fact-heading">Fun Facts</h1>
-      <FunFactCard fact={roverRandom} link="/funfact/rover" />
-      <FunFactCard fact={missionRandom} link="/funfact/mission" />
-      <FunFactCard fact={environmentRandom} link="/funfact/environment" />
+      <div className="ff-card-container">
+        <FunFactCard fact={roverRandom} link="/funfact/rover" />
+        <FunFactCard fact={missionRandom} link="/funfact/mission" />
+        <FunFactCard fact={environmentRandom} link="/funfact/environment" />
+      </div>
     </div>
   );
 }
