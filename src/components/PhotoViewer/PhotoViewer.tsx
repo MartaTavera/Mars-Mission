@@ -43,7 +43,7 @@ const MissionDate: React.FC<MissionDateProps> = ({ name }) => {
 };
 
 const PhotoViewer: React.FC = () => {
-  const [roverData, setRoverData] = useState<RoverData>();
+  const [roverData, setRoverData] = useState<RoverData>({ photos: [] });
   const [selectedRover, setSelectedRover] = useState<string>("spirit");
   const [coverImageUrl, setCoverImageUrl] = useState<string>("");
   const [date, setDate] = useState<Date | null>(new Date());
