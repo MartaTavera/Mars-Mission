@@ -74,7 +74,7 @@ export const factList: Fact[] = [
     id: 8,
     content:
       "Pathfinder was launched on December 1996. The mission carried a series of scientific instruments to analyze the Martian atmosphere, climate, and geology and the composition of its rocks and soil. The mission was planned to last from a week to a month, but the rover operated successfully for almost three months. Data from the pathfinder was used to designed subsequent missions.",
-    category: "mission",
+    category: "missions",
   },
   {
     title: "First mission to Mars",
@@ -82,7 +82,7 @@ export const factList: Fact[] = [
     id: 3,
     content:
       "The first successful mission to Mars was NASA's Viking 1 mission in 1976.",
-    category: "mission",
+    category: "missions",
   },
   {
     title: "Rover lands on mars",
@@ -90,7 +90,7 @@ export const factList: Fact[] = [
     id: 4,
     content:
       "Perseverance was launched on July 2020 and landed on Mars on February 2021. Like many previous Mars rovers ( Sojourner, Spirit, Opportunity and Curiosit) it was named by a school kid, following a ntional contest. The perseverance maximum speed is 0.1 miles per hour (an average person walks  at 3mph). Currently, february 2024, it has been operating for 2 years and 11 months),   ",
-    category: "rover",
+    category: "rovers",
   },
   {
     title: "Rover made Oxygen",
@@ -98,14 +98,14 @@ export const factList: Fact[] = [
     id: 9,
     content:
       "A toaster-size experimental instrument aboard Perseverance called the Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) accomplished the task by converting carbon dioxide into oxygen. Oxygen is not only required for humans to breath but is also necessary for fuel to burn. A human expedition to mars will need around 30 tonns of oxygen to be able to make their way back.  ",
-    category: "rover",
+    category: "rovers",
   },
   {
     title: "Curiosity",
     image: image10,
     id: 10,
     content: "Curiosity was lanched in November 2011 and it is still active.",
-    category: "rover",
+    category: "rovers",
   },
   {
     title: "Ingenuity",
@@ -113,7 +113,7 @@ export const factList: Fact[] = [
     id: 11,
     content:
       "Perseverance carried the Ingenuity helicopter attached to the underside. It has demonstrated that flight is possible in the extremely thin atmosphere of Mars, and is the first aircraft to conduct a powered and controlled extra-terrestrial flight. Because radio signals take between five and 20 minutes to travel between Earth and Mars, depending on the planets' positions, it flew autonomously executing plans designed and sent to it.",
-    category: "rover",
+    category: "rovers",
   },
   {
     title: "Atmosphere composition",
@@ -130,7 +130,7 @@ export const factList: Fact[] = [
     id: 13,
     content:
       "NASA’s Mariner 9, launched days after Mariner 8, was the first spacecraft to orbit another planet and to orbit Mars, mapping 85% of the surface. (1971-1972)",
-    category: "mission",
+    category: "missions",
   },
   {
     title: "Viking 2",
@@ -138,6 +138,6 @@ export const factList: Fact[] = [
     id: 14,
     content:
       "Viking 2 mission consisted of a lander and an orbiter designed to take high-resolution images and study the Martian surface and atmosphere. The Viking Orbiter 2 functioned until July 25, 1978. The last data from Viking Lander 2 arrived at Earth on April 11, 1980.",
-    category: "mission",
+    category: "missions",
   },
 ];

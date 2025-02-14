@@ -2,9 +2,15 @@ import "./FunFact.scss";
 import { Fact } from "./factList";
 import { Link } from "react-router-dom";
 
-export default function FunFactCard(props: { fact: Fact; link?: string }) {
+export default function FunFactCard(props: {
+  fact: Fact;
+  link?: string;
+  category?: string;
+}) {
   return (
     <div>
+      {" "}
+      <h2>About Mars {props.fact.category}</h2>
       <div className="card-container">
         <div className="fact-container">
           <p className="title">{props.fact.title} </p>
