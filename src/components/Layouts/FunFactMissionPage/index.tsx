@@ -11,7 +11,7 @@ export default function FunFactMissionPage() {
     <div className="gutter">
       <div className="mission-fun-fact-page layout">
         <FunFactCategory
-          facts={factList.filter((cate: any) => cate.category === "mission")}
+          facts={factList.filter((cate: any) => cate.category === "missions")}
         />
       </div>
     </div>

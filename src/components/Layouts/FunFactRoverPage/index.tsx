@@ -10,7 +10,7 @@ export default function FunFactRoverPage() {
     <div className="gutter">
       <div className="rover-fun-fact-page layout">
         <FunFactCategory
-          facts={factList.filter((cate) => cate.category === "rover")}
+          facts={factList.filter((cate) => cate.category === "rovers")}
         />
       </div>
     </div>

@@ -89,7 +89,7 @@ export const factList: Fact[] = [
     image: image4,
     id: 4,
     content:
-      "Perseverance was launched on July 2020 and landed on Mars on February 2021. Like many previous Mars rovers ( Sojourner, Spirit, Opportunity and Curiosit) it was named by a school kid, following a ntional contest. The perseverance maximum speed is 0.1 miles per hour (an average person walks  at 3mph). Currently, february 2024, it has been operating for 2 years and 11 months),   ",
+      "Perseverance was launched on July 2020 and landed on Mars on February 2021. Like many previous Mars rovers ( Sojourner, Spirit, Opportunity and Curiosit) it was named by a school kid, following a national contest. The Perseverance maximum speed is 0.1 miles per hour (an average person walks  at 3mph). Currently, February 2024, it has been operating for 2 years and 11 months),   ",
     category: "rovers",
   },
   {
