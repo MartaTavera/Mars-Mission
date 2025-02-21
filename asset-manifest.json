@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Mars-Mission/static/css/main.56c0609f.css",
+    "main.js": "/Mars-Mission/static/js/main.d1abc5fc.js",
+    "static/js/453.ac03b857.chunk.js": "/Mars-Mission/static/js/453.ac03b857.chunk.js",
+    "static/media/Curiosity.jpg": "/Mars-Mission/static/media/Curiosity.b7bbafb416e56df3b777.jpg",
+    "static/media/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.jpg": "/Mars-Mission/static/media/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.c0fddc325fb9dada7d20.jpg",
+    "static/media/backgroundimage1.jpeg": "/Mars-Mission/static/media/backgroundimage1.eb2339544df8173fe888.jpeg",
+    "static/media/mariner09.jpg": "/Mars-Mission/static/media/mariner09.c423f53d01c75b90916a.jpg",
+    "static/media/MOXIE.jpg": "/Mars-Mission/static/media/MOXIE.ad8a7241f52e3837fe1d.jpg",
+    "static/media/Pathfinder.jpg": "/Mars-Mission/static/media/Pathfinder.613eb2c42e8a21613ebe.jpg",
+    "static/media/Viking1.jpg": "/Mars-Mission/static/media/Viking1.93716e897d925eeeba8d.jpg",
+    "static/media/galaxy.jpg": "/Mars-Mission/static/media/galaxy.88fccc02eb854bfad3ea.jpg",
+    "static/media/mars-rover.webp": "/Mars-Mission/static/media/mars-rover.0f0a2527590070a98b83.webp",
+    "static/media/Atmosphere.jpg": "/Mars-Mission/static/media/Atmosphere.6e0fc8980359a640824e.jpg",
+    "static/media/spiral-galaxy.jpg": "/Mars-Mission/static/media/spiral-galaxy.b3108f7b39ec37197660.jpg",
+    "static/media/Perseverance_Landing.jpg": "/Mars-Mission/static/media/Perseverance_Landing.fff4e3fa324dab85ef4c.jpg",
+    "static/media/Ingenuity1.jpg": "/Mars-Mission/static/media/Ingenuity1.8d52a17624bc62282b03.jpg",
+    "static/media/Mars1.jpg": "/Mars-Mission/static/media/Mars1.953561bcc9df64c54e67.jpg",
+    "static/media/Moons.jpg": "/Mars-Mission/static/media/Moons.a3eb8c45d24f19a1a3f8.jpg",
+    "static/media/titillium-web-latin-400-normal.woff": "/Mars-Mission/static/media/titillium-web-latin-400-normal.92c680a5dde8f96ce9bb.woff",
+    "static/media/VikingOrbiter.jpg": "/Mars-Mission/static/media/VikingOrbiter.10dfa5dc45b19f7de244.jpg",
+    "static/media/titillium-web-latin-400-normal.woff2": "/Mars-Mission/static/media/titillium-web-latin-400-normal.55b29b135a9838d9e0f7.woff2",
+    "static/media/Mars_gravity.jpg": "/Mars-Mission/static/media/Mars_gravity.f39392055fd64904d838.jpg",
+    "static/media/titillium-web-latin-ext-400-normal.woff": "/Mars-Mission/static/media/titillium-web-latin-ext-400-normal.fb1d060d0edb771cab06.woff",
+    "static/media/titillium-web-latin-ext-400-normal.woff2": "/Mars-Mission/static/media/titillium-web-latin-ext-400-normal.fc46e868e0ca6c2fa856.woff2",
+    "index.html": "/Mars-Mission/index.html",
+    "main.56c0609f.css.map": "/Mars-Mission/static/css/main.56c0609f.css.map",
+    "main.d1abc5fc.js.map": "/Mars-Mission/static/js/main.d1abc5fc.js.map",
+    "453.ac03b857.chunk.js.map": "/Mars-Mission/static/js/453.ac03b857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c0609f.css",
+    "static/js/main.d1abc5fc.js"
+  ]
+}
