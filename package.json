@@ -2,6 +2,7 @@
   "name": "mars-mission",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yourusername.github.io/Mars-Mission",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
@@ -30,6 +31,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest --passWithNoTests",
@@ -63,6 +66,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@babel/plugin-transform-private-methods": "^7.25.9",
     "@types/react-datepicker": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "husky": "^9.0.10",
     "jest-mock-fetch": "^2.0.5",
     "lint-staged": "^15.2.2",
