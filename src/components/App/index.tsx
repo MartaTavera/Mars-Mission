@@ -21,7 +21,7 @@ const App: React.FC = () => {
       <div className="padded-container">
         <Routes>
           <Route path="/rover" element={<RoverIntroPage />} />
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/Mars-Mission" element={<LandingPage />} />
           <Route path="/quiz" element={<QuizPage />} />
           <Route path="/marsrover" element={<MarsRoverPage />} />
           <Route path="/womeninspace" element={<WomenInSpace />} />
