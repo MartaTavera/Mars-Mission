@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mars-Mission/static/css/main.56c0609f.css",
-    "main.js": "/Mars-Mission/static/js/main.d1abc5fc.js",
+    "main.js": "/Mars-Mission/static/js/main.f5276d85.js",
     "static/js/453.ac03b857.chunk.js": "/Mars-Mission/static/js/453.ac03b857.chunk.js",
     "static/media/Curiosity.jpg": "/Mars-Mission/static/media/Curiosity.b7bbafb416e56df3b777.jpg",
     "static/media/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.jpg": "/Mars-Mission/static/media/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.c0fddc325fb9dada7d20.jpg",
@@ -26,11 +26,11 @@
     "static/media/titillium-web-latin-ext-400-normal.woff2": "/Mars-Mission/static/media/titillium-web-latin-ext-400-normal.fc46e868e0ca6c2fa856.woff2",
     "index.html": "/Mars-Mission/index.html",
     "main.56c0609f.css.map": "/Mars-Mission/static/css/main.56c0609f.css.map",
-    "main.d1abc5fc.js.map": "/Mars-Mission/static/js/main.d1abc5fc.js.map",
+    "main.f5276d85.js.map": "/Mars-Mission/static/js/main.f5276d85.js.map",
     "453.ac03b857.chunk.js.map": "/Mars-Mission/static/js/453.ac03b857.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56c0609f.css",
-    "static/js/main.d1abc5fc.js"
+    "static/js/main.f5276d85.js"
   ]
 }
