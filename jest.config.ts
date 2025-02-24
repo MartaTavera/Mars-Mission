@@ -1,6 +1,7 @@
 export default {
   globals: {
     fetch: global.fetch,
+    base: "/Mars-Mission/",
   },
   transform: {
     ".(ts|tsx)": "ts-jest",
